@@ -29,14 +29,14 @@ Users should be able to:
 
 ### Screenshot
 
-![đesktop](./images/screencapture-127-0-0-1-5501-public-2025-08-05-08_35_02.png)
-![mobile](./images/screencapture-127-0-0-1-5501-public-2025-08-05-08_35_51.png)
+![đesktop](./public/images/screencapture-127-0-0-1-5501-public-2025-08-05-08_35_02.png)
+![mobile](./public/images/screencapture-127-0-0-1-5501-public-2025-08-05-08_35_51.png)
 
 
 ### Links
 
 - Solution URL: https://github.com/DanKRT-Star/bookmark-landing-page-master
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Bookmark landing page](https://bookmark-landing-page-master-rho-five.vercel.app/)
 
 ## My process
 
