@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *, *::before, *::after {
+    box-sizing: border-box;
+    transition: all 0.3s;
+  }
+}
+
+@layer components {
+  .open .main_nav {
+    @apply translate-x-0 opacity-90;
+  }
+
+  .feature.active .option{
+    @apply after:scale-x-100;
+  }
+
+  .faq.open .answer {
+    @apply block;
+  }
+
+  .faq.open .question .toggleBtn .icon {
+    @apply rotate-180 text-primary-red;
+  }
+
+  .email_container.error {
+    @apply border-primary-red bg-primary-red;
+  }
+}
+
+* {
+    box-sizing: border-box;
+}
